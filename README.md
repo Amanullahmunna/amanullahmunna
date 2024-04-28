@@ -80,6 +80,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/amanullahmunna/amanullahmunna/output/snake.svg" alt="Snake animation" />
-
-###
